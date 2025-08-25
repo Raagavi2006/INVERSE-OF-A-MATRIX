@@ -28,7 +28,8 @@ sol = np.linalg.inv(A)
 print(sol)
 ```
 ## Output:
-<img width="466" height="211" alt="Screenshot 2025-08-19 121128" src="https://github.com/user-attachments/assets/54123547-2c2a-404f-9cff-781268442e0e" />
+<img width="1020" height="770" alt="image" src="https://github.com/user-attachments/assets/1bc2eb15-c0c9-4776-a212-85224d475844" />
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
